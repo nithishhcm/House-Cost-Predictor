@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI_Development-red)
+![Data Visualization](https://img.shields.io/badge/Visualization-Dynamic-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 # 🏠 Premium House Price Predictor Dashboard
 
 An interactive, dark-themed desktop application built using Python, Scikit-Learn, and Tkinter. This project demonstrates an end-to-end Machine Learning pipeline—from synthetic data generation and feature scaling to live, dynamic data visualization.
